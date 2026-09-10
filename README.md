@@ -75,6 +75,12 @@ Add it to your server configuration and start the resource normally.
 **Cisco** • Issued September 2026  
 [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/5c1f2234-ae0a-45de-af49-677dce570e23/public_url)
 
+### AttackIQ
+
+#### Foundations of Purple Teaming
+**AttackIQ** • Issued September 2026  
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/7e67c167-c9f0-42a4-a97a-31d6a2de57ad/public_url)
+
 ### Hack The Box
 
 #### That Was A SOCer
