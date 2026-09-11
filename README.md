@@ -77,6 +77,10 @@ Add it to your server configuration and start the resource normally.
 
 ### AttackIQ
 
+#### Operationalizing MITRE ATT&CK v19
+**AttackIQ** • Issued September 2026  
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/95934f21-c54a-4a14-9045-d325fc2e6f2f/public_url)
+
 #### Breach & Attack Simulation
 **AttackIQ** • Issued September 2026  
 [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/de4fae36-1f0a-4fad-bd2f-82c23f3fb135/public_url)
