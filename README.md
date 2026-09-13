@@ -31,6 +31,10 @@ Add it to your server configuration and start the resource normally.
 
 ### Google Cloud
 
+#### Develop and Secure APIs with Apigee X
+**Google Cloud** • Issued September 2026  
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/09523777-2ae2-40fd-9ba9-1cd800e31aff/public_url)
+
 #### Use Machine Learning APIs on Google Cloud
 **Google Cloud** • Issued September 2026  
 [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/77d63d3d-424e-455f-a5b3-b5e6ab22b6c5/public_url)
