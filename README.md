@@ -77,6 +77,10 @@ Add it to your server configuration and start the resource normally.
 
 ### AttackIQ
 
+#### Intermediate Breach & Attack
+**AttackIQ** • Issued September 2026  
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/05dd3d4a-1997-4130-8f27-77b9b14c133b)
+
 #### Beyond Atomic Testing with Attack Flows
 **AttackIQ** • Issued September 2026  
 [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/4d1e100d-ca7d-43c1-a1b7-d621e87db7c3)
