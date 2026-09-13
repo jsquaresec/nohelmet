@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jsquaresec/jsquaresec/main/assets/j2sec-approved-banner.webp" alt="J2SEC approved banner" width="100%" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/jsquaresec/jsquaresec/main/assets/j2sec-approved-profile.webp" alt="J2SEC approved profile artwork" width="480" />
-
-</div>
-
 # nohelmet
 
 A lightweight FiveM resource that keeps automatic helmets off player characters.
