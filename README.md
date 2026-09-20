@@ -122,6 +122,7 @@ Practical Hack The Box Labs achievement demonstrating hands-on security operatio
 Practical Hack The Box Labs achievement earned through hands-on cybersecurity investigation exercises.
 
 [![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://labs.hackthebox.com/achievement/badge/3945090/242)
+
 ### TryHackMe
 
 #### Introduction to Security Engineering
