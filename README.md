@@ -132,6 +132,7 @@ TryHackMe achievement recognizing completion of OWASP Top 10 learning content co
 TryHackMe competitive achievement recognizing a first-place finish in the Bronze League.
 
 [![View Achievement](https://img.shields.io/badge/View-TryHackMe%20Achievement-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/jsquaresec/badges/bronze-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6aa58ef9208838a64756eb1a)
+
 ### Other Credentials
 
 #### Introduction to Cyber Security: Stay Safe Online
