@@ -105,14 +105,23 @@ Add it to your server configuration and start the resource normally.
 
 ### Hack The Box
 
+#### Linux Fundamentals
+**Hack The Box Academy** • September 2026  
+Hack The Box Academy achievement recognizing completion of Linux Fundamentals training.
+
+[![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://academy.hackthebox.com/achievement/badge/62319cf4-b53a-11f1-82d1-bea50ffe6cb4)
+
 #### That Was A SOCer
 **Hack The Box** • September 2026  
+Practical Hack The Box Labs achievement demonstrating hands-on security operations and investigation skills.
+
 [![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://labs.hackthebox.com/achievement/badge/3945090/243)
 
 #### Investigator In The Making
 **Hack The Box** • September 2026  
-[![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://labs.hackthebox.com/achievement/badge/3945090/242)
+Practical Hack The Box Labs achievement earned through hands-on cybersecurity investigation exercises.
 
+[![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://labs.hackthebox.com/achievement/badge/3945090/242)
 ### TryHackMe
 
 #### Introduction to Security Engineering
