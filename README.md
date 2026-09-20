@@ -115,10 +115,23 @@ Add it to your server configuration and start the resource normally.
 
 ### TryHackMe
 
+#### Introduction to Security Engineering
+**TryHackMe** • September 2026  
+TryHackMe achievement recognizing completion of the Introduction to Security Engineering learning content.
+
+[![View Achievement](https://img.shields.io/badge/View-TryHackMe%20Achievement-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/jsquaresec/badges/intro-to-security-engineering?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6aa58ef9208838a64756eb1a)
+
+#### OWASP Top 10
+**TryHackMe** • September 2026  
+TryHackMe achievement recognizing completion of OWASP Top 10 learning content covering common web application security risks.
+
+[![View Achievement](https://img.shields.io/badge/View-TryHackMe%20Achievement-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/jsquaresec/badges/owasp-10?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6aa58ef9208838a64756eb1a)
+
 #### Placed #1 in Bronze League
 **TryHackMe** • September 2026  
-[![View Achievement](https://img.shields.io/badge/View-TryHackMe%20Achievement-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/jsquaresec/badges/bronze-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6aa58ef9208838a64756eb1a)
+TryHackMe competitive achievement recognizing a first-place finish in the Bronze League.
 
+[![View Achievement](https://img.shields.io/badge/View-TryHackMe%20Achievement-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/jsquaresec/badges/bronze-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6aa58ef9208838a64756eb1a)
 ### Other Credentials
 
 #### Introduction to Cyber Security: Stay Safe Online
