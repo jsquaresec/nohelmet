@@ -149,6 +149,14 @@ TryHackMe competitive achievement recognizing a first-place finish in the Bronze
 
 [![View Achievement](https://img.shields.io/badge/View-TryHackMe%20Achievement-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/jsquaresec/badges/bronze-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6aa58ef9208838a64756eb1a)
 
+### Harvard University / CS50
+
+#### CS50x: Introduction to Computer Science
+**Harvard University / CS50** • 2026  
+Completed CS50x: Introduction to Computer Science, including ten problem sets and a final project.
+
+[![Verify Certificate](https://img.shields.io/badge/Verify-CS50%20Certificate-A51C30?style=for-the-badge&logo=harvarduniversity&logoColor=white)](https://cs50.harvard.edu/certificates/d984aae9-4871-42c4-b9c2-9bd31bbd3e80)
+
 ### Other Credentials
 
 #### Introduction to Cyber Security: Stay Safe Online
