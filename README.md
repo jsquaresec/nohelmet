@@ -105,6 +105,12 @@ Add it to your server configuration and start the resource normally.
 
 ### Hack The Box
 
+#### Holmes CTF 2026 — The Reichenbach Directive
+**Hack The Box** • September 2026  
+Event certificate for participation in Holmes CTF 2026 with **Only The Demons**, finishing **307th of 5,637 teams**, solving **73 of 111 challenges**, and earning **5,900 points**.
+
+[![View Certificate](https://img.shields.io/badge/View-Holmes%20CTF%202026%20Certificate-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://jsquaresec.github.io/jsquaresec/certificates/holmes-ctf-2026/)
+
 #### Script Kiddie
 **Hack The Box** • September 2026  
 Hack The Box Labs achievement earned through hands-on security labs and practical challenge completion.
