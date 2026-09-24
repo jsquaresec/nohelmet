@@ -105,6 +105,12 @@ Add it to your server configuration and start the resource normally.
 
 ### Hack The Box
 
+#### Web Requests
+**Hack The Box Academy** • September 2026  
+Hack The Box Academy achievement covering HTTP requests, request methods, headers, parameters, responses, and practical web communication fundamentals.
+
+[![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://academy.hackthebox.com/achievement/2870402/35)
+
 #### Holmes CTF 2026 — The Reichenbach Directive
 **Hack The Box** • September 2026  
 Event certificate for participation in Holmes CTF 2026 with **Only The Demons**, finishing **307th of 5,637 teams**, solving **73 of 111 challenges**, and earning **5,900 points**.
