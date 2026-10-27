@@ -180,6 +180,12 @@ Completed CS50x: Introduction to Computer Science, including ten problem sets an
 
 [![Verify Certificate](https://img.shields.io/badge/Verify-CS50%20Certificate-A51C30?style=for-the-badge&logo=harvarduniversity&logoColor=white)](https://cs50.harvard.edu/certificates/d984aae9-4871-42c4-b9c2-9bd31bbd3e80)
 
+### University of Phoenix
+
+#### Reflective Decision Making
+**University of Phoenix** • Issued October 2026  
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/e7327e50-8bc0-482f-87f7-4a4e4ba66e25)
+
 ### Other Credentials
 
 #### Introduction to Cyber Security: Stay Safe Online
